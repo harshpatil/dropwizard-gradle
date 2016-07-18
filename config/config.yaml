@@ -1,0 +1,15 @@
+name: Harshavardhan Patil
+
+server:
+  applicationConnectors:
+  - type: http
+    port: 7777
+  adminConnectors:
+  - type: http
+    port: 7778
+
+logging:
+  level: INFO
+  appenders:
+  - type: console
+    threshold: INFO
