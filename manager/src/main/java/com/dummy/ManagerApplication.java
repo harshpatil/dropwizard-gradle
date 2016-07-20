@@ -17,7 +17,6 @@ public class ManagerApplication extends Application<ManagerConfiguration> {
     }
 
     public static void main(String[] args) throws Exception {
-
         new ManagerApplication().run(args);
     }
 
