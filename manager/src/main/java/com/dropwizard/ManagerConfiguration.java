@@ -1,4 +1,4 @@
-package com.dummy;
+package com.dropwizard;
 
 import io.dropwizard.Configuration;
 
